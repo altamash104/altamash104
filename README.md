@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Altamash Shahid
-- 👀 I’m interested in VLSI
+- 👀 I’m interested in SoC verification
 - 📫 How to reach me altamashshahid93@gmail.com
--🏢Education MTech in Electronics & Communication 
+-🏢Education M-Tech in Electronics & Communication 
 
 
